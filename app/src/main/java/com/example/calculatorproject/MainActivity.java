@@ -35,10 +35,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     String s;
 
 
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -78,7 +74,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bC.setOnClickListener(this);
         bEq.setOnClickListener(this);
         b0.setOnClickListener(this);
-
 
 
     }
@@ -289,12 +284,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
-
             }
-
-
-
-
 
 
     }
